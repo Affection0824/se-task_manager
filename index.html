@@ -7,6 +7,10 @@
     <meta name="description" content="拾序任务管理器，让每一件小事都有着落。" />
     <link rel="icon" type="image/svg+xml" href="./public/favicon.svg" />
     <title>拾序 · 任务管理器</title>
+    <script>
+      // 在首屏样式加载前恢复选择，减少深色主题刷新时的闪白。
+      try { document.documentElement.dataset.theme = localStorage.getItem('shixu.theme.v1') === 'dark' ? 'dark' : 'light' } catch { document.documentElement.dataset.theme = 'light' }
+    </script>
   </head>
   <body>
     <div id="app"></div>

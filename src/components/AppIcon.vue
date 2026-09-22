@@ -2,6 +2,11 @@
 defineProps({ name: { type: String, required: true }, size: { type: [Number, String], default: 20 } })
 const paths = {
   check: 'm5 12 4 4L19 6',
+  board: 'M3 4h18v16H3V4m6 0v16m6-16v16M6 8v4m6-4v7m6-7v3',
+  progress: 'M12 3a9 9 0 1 1-9 9M12 3v9l6 3M3 7h.01M7 3h.01',
+  moon: 'M21 13A9 9 0 0 1 11 3a9 9 0 1 0 10 10',
+  sun: 'M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0M12 2v2M12 20v2M2 12h2M20 12h2m-3-9 1.5-1.5M5.5 18.5 7 17M3.5 3.5 5 5m14 14 1.5 1.5',
+  grip: 'M9 5h.01M15 5h.01M9 12h.01M15 12h.01M9 19h.01M15 19h.01',
   plus: 'M12 5v14M5 12h14',
   list: 'M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01',
   circle: 'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0',
