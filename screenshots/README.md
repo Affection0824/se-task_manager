@@ -6,32 +6,32 @@
 
 | 截图 | 演示内容 |
 | --- | --- |
-| [01-empty-board.png](./01-empty-board.png) | 首次打开的空看板，待办 / 进行中 / 完成三列 |
-| [02-create-validation.png](./02-create-validation.png) | 标题未填写时阻止创建并显示提示 |
-| [03-create-task.png](./03-create-task.png) | 创建任务：标题、选填描述、状态及高（红）优先级 |
-| [04-board-light.png](./04-board-light.png) | 浅色看板，三列任务及高红 / 中黄 / 低绿优先级 |
-| [05-task-details.png](./05-task-details.png) | 查看完整描述、状态、优先级和时间信息 |
-| [06-edit-task.png](./06-edit-task.png) | 同时修改标题、描述、状态及优先级 |
-| [07-delete-confirm.png](./07-delete-confirm.png) | 删除确认，可保留任务或确认删除 |
-| [08-list-filter-search.png](./08-list-filter-search.png) | 列表中组合状态、优先级和描述关键词筛选 |
-| [09-board-after-drag.png](./09-board-after-drag.png) | 鼠标把“编写课程实践报告”从待办拖到进行中后的结果 |
-| [10-board-dark.png](./10-board-dark.png) | 切换深色模式并刷新后，主题和任务状态仍保留 |
-| [11-edit-dark.png](./11-edit-dark.png) | 深色模式下的编辑弹窗和低（绿）优先级 |
-| [12-mobile-list.png](./12-mobile-list.png) | 手机宽度下的列表布局 |
-| [13-backup-import.png](./13-backup-import.png) | 导入 5 项演示任务后的成功提示 |
-| [14-empty-search.png](./14-empty-search.png) | 搜索无结果时的空状态和清除筛选入口 |
-| [15-list-light.png](./15-list-light.png) | 浅色列表完整任务概览 |
-| [16-mobile-board.png](./16-mobile-board.png) | 手机宽度下可横向滚动的看板 |
+| [01-empty-board.jpg](./01-empty-board.jpg) | 首次打开的空看板，待办 / 进行中 / 完成三列 |
+| [02-create-validation.jpg](./02-create-validation.jpg) | 标题未填写时阻止创建并显示提示 |
+| [03-create-task.jpg](./03-create-task.jpg) | 创建任务：标题、选填描述、状态及高（红）优先级 |
+| [04-board-light.jpg](./04-board-light.jpg) | 浅色看板，三列任务及高红 / 中黄 / 低绿优先级 |
+| [05-task-details.jpg](./05-task-details.jpg) | 查看完整描述、状态、优先级和时间信息 |
+| [06-edit-task.jpg](./06-edit-task.jpg) | 同时修改标题、描述、状态及优先级 |
+| [07-delete-confirm.jpg](./07-delete-confirm.jpg) | 删除确认，可保留任务或确认删除 |
+| [08-list-filter-search.jpg](./08-list-filter-search.jpg) | 列表中组合状态、优先级和描述关键词筛选 |
+| [09-board-after-drag.jpg](./09-board-after-drag.jpg) | 鼠标把“编写课程实践报告”从待办拖到进行中后的结果 |
+| [10-board-dark.jpg](./10-board-dark.jpg) | 切换深色模式并刷新后，主题和任务状态仍保留 |
+| [11-edit-dark.jpg](./11-edit-dark.jpg) | 深色模式下的编辑弹窗和低（绿）优先级 |
+| [12-mobile-list.jpg](./12-mobile-list.jpg) | 手机宽度下的列表布局 |
+| [13-backup-import.jpg](./13-backup-import.jpg) | 导入 5 项演示任务后的成功提示 |
+| [14-empty-search.jpg](./14-empty-search.jpg) | 搜索无结果时的空状态和清除筛选入口 |
+| [15-list-light.jpg](./15-list-light.jpg) | 浅色列表完整任务概览 |
+| [16-mobile-board.jpg](./16-mobile-board.jpg) | 手机宽度下可横向滚动的看板 |
 
 ## 看板
 
-![浅色看板](./04-board-light.png)
+![浅色看板](./04-board-light.jpg)
 
-![深色看板](./10-board-dark.png)
+![深色看板](./10-board-dark.jpg)
 
 ## 任务编辑
 
-![编辑任务](./06-edit-task.png)
+![编辑任务](./06-edit-task.jpg)
 
 ## 验收记录
 
